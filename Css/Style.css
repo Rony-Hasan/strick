@@ -1,0 +1,464 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    width: 1027px;
+    margin: 0px auto;
+}
+
+.logo {
+    width: 175px;
+    float: left;
+}
+
+ul li {
+    display: inline-block;
+    margin: 5px 60px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+header {
+    width: 100%;
+    background: #ffffff;
+    padding: 10px;
+    position: fixed;
+    font-size: 10px;
+}
+#slider{
+    background-image: url(../Image/01.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+button#calltoAction {
+    padding: 12px 34px;
+    border-radius: 3px;
+    border: 1px solid #fff;
+    background: transparent;
+    color: white;
+    margin-bottom: 95px;
+}
+
+.slidercontent {
+    text-align: center;
+    padding: 80px;
+    line-height: 70px;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-top: 70px;
+}
+
+div#pure {
+    width: 100%;
+    text-align: center;
+    padding: 40px 0px;
+    line-height: 30px;
+    background-color: #e9e9e961;
+}
+
+.packagecontent {
+    width: 30.33%;
+    background: white;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 1px;
+    padding: 10px 10px;
+    float: left;
+    margin-left: 10px;
+}
+
+i.fas.fa-mobile-alt {
+    width: 40px;
+    height: 35px;
+    background: #0bb0ff;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 31px;
+    color: white;
+    margin: 14px 0px;
+}
+
+i.fas.fa-paper-plane{
+
+    width: 40px;
+    height: 35px;
+    background: #0bb0ff;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 31px;
+    color: white;
+    margin: 14px 0px;
+}
+
+i.fas.fa-bullhorn{
+    width: 40px;
+    height: 35px;
+    background: #0bb0ff;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 31px;
+    color: white;
+    margin: 14px 0px;
+
+}
+
+div#work {
+    width: 100%;
+    background: #cecece42;
+    text-align: center;
+    margin-top: 248px;
+    padding-bottom: 570px;
+}
+
+.allimage {
+    width: 100%;
+    margin: 35px 0px;
+}
+
+logo img {
+    float: left;
+    width: 30.33%;
+    margin: 15px 15px;
+}
+
+.wordshowcase {
+    padding-top: 50px;
+}
+#newsletter{
+background-image: url(../Image/footerbackground.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+
+.newslatterContent {
+    width: 100%;
+    color: white;
+    padding: 120px 0px;
+    line-height: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 41px;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 15px;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    width: 1027px;
+    margin: 0px auto;
+}
+
+.logo {
+    width: 175px;
+    float: left;
+}
+
+ul li {
+    display: inline-block;
+    margin: 10px 56px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+header {
+    width: 100%;
+    background: #ffffff;
+    padding: 10px;
+    position: fixed;
+    font-size: 10px;
+}
+#slider{
+    background-image: url(../Image/01.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+button#calltoAction {
+    padding: 12px 34px;
+    border-radius: 3px;
+    border: 1px solid #fff;
+    background: transparent;
+    color: white;
+    margin-bottom: 95px;
+}
+
+.slidercontent {
+    text-align: center;
+    padding: 80px;
+    line-height: 70px;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-top: 70px;
+}
+
+div#pure {
+    width: 100%;
+    text-align: center;
+    padding: 40px 0px;
+    line-height: 30px;
+    background-color: #e9e9e961;
+}
+
+.packagecontent {
+    width: 30.33%;
+    background: white;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 1px;
+    padding: 10px 10px;
+    float: left;
+    margin-left: 10px;
+}
+
+i.fas.fa-mobile-alt {
+    width: 40px;
+    height: 35px;
+    background: #0bb0ff;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 31px;
+    color: white;
+    margin: 14px 0px;
+}
+
+i.fas.fa-paper-plane{
+
+    width: 40px;
+    height: 35px;
+    background: #0bb0ff;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 31px;
+    color: white;
+    margin: 14px 0px;
+}
+
+i.fas.fa-bullhorn{
+    width: 40px;
+    height: 35px;
+    background: #0bb0ff;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 31px;
+    color: white;
+    margin: 14px 0px;
+
+}
+
+div#work {
+    width: 100%;
+    background: #cecece42;
+    text-align: center;
+    margin-top: 248px;
+    padding-bottom: 625px;
+}
+
+.portfolio{
+width: 100%;
+float: left;
+padding: 25px 0px;
+
+
+ }
+
+ .image-hover{
+width: 32.33%;
+float: left;
+position: relative;
+overflow: hidden;
+margin-right: 10px;
+margin-top: 10px;
+
+}
+
+.image-hover img{
+    width: 100%;
+
+
+}
+
+.image-hover-content {
+    background: #00ffff52;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    opacity: 0;
+    transition: 0.4s ease-in-out;
+}
+.image-hover-content h2{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    color: black;
+
+    float: left;
+}
+.image-hover-content p{
+    position: absolute;
+    top: 40%;
+    left: 54%;
+
+    font-size: 30px;
+    color: black;
+}
+
+.image-hover:hover .image-hover-content{
+   opacity: 1;
+}
+#newsletter{
+background-image: url(../Image/footerbackground.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+
+.newslatterContent {
+    width: 100%;
+    color: white;
+    padding: 120px 0px;
+    line-height: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 15px;
+}
+
+input[type="text"] {
+    width: 40%;
+    padding: 15px 15px;
+    border: 3px solid #2f394c;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+}
+
+input[type="email"] {
+    width: 40%;
+    padding: 15px 15px;
+    border: 3px solid #2f394c;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+}
+
+textarea {
+    width: 40%;
+    padding: 15px 15px;
+    border: 3px solid #2f394c;
+    margin-bottom: -11px;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+}
+
+
+span {
+    font-size: 17px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    padding: 60px;
+    margin-left: -59px;
+}
+
+button#newslatter {
+    border: 2px solid #00a8ed;
+    padding: 8px 34px;
+    border-radius: 3px;
+    background: transparent;
+    color: white;
+    font-size: 17px;
+    margin-left: 60px;
+}
+
+footer {
+    width: 100%;
+    background: #ffff;
+    padding: 33px 0px;
+}
+
+h3 {
+    width: 75%;
+    float: left;
+    color: black;
+}
+
+i.fab.fa-facebook {
+    width: 18px;
+    height: 22px;
+    background: #0591ff;
+    padding: 9px 11px;
+    font-size: 23px;
+    color: white;
+}
+
+.fab.fa-twitter {
+  height: 22px;
+  background: #0b80dc;
+  padding: 9px 11px;
+  font-size: 23px;
+  color: white;
+}
+.fab.fa-linkedin {
+  height: 22px;
+  background: #0676cf;
+  padding: 9px 11px;
+  font-size: 23px;
+  color: white;
+}
+.fab.fa-instagram {
+  height: 22px;
+  background: #ff5705;
+  padding: 9px 11px;
+  font-size: 23px;
+  color: white;
+}
+.fab.fa-google-plus {
+  height: 22px;
+  background: #ff0505;
+  padding: 9px 11px;
+  font-size: 23px;
+  color: white;
+}
+
+button#calltoAction:hover {
+    color: #e3f107;
+    background-color: black;
+    border: none;
+}
